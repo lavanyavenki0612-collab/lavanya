@@ -15,5 +15,5 @@
 - **Tools:** Git, GitHub, VS Code, Google Colab.
 
 ## 📫 Contact
-- GitHub: https://github.com/lavanya
+- GitHub: https://github.com/lavanyavenki0612-collab
 - LinkedIn: (lavanya venki)
