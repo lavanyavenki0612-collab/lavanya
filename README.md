@@ -9,7 +9,7 @@
 
 ## 🛠️ Skills
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend:** Python, Flask / Django (if applicable)
+- **Backend:** Python, Flask / Django
 - **Database:** MySQL / MongoDB
 - **AI/ML:** Python, Pandas, NumPy, ML basics
 - **Tools:** Git, GitHub, VS Code, Google Colab.
